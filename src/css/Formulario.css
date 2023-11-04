@@ -1,0 +1,9 @@
+.texto{
+    margin: 3px;
+    padding: 3px;
+}
+
+.label{
+    display: block;
+    font-weight: bold;
+}
